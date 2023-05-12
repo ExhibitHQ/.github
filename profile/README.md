@@ -1,0 +1,5 @@
+- We're excited to invite you to join ExhibitHQ, a community of developers and designers who are passionate about creating beautiful and engaging exhibits. As a member of our community, you'll have access to our private repositories, collaborate with other members on projects, and receive early access to new features. We hope you'll join us in building the future of exhibit design!
+
+- We're looking for talented developers and designers to join our team at ExhibitHQ. As a member of our organization, you'll have the opportunity to work on cutting-edge projects, collaborate with other talented individuals, and make a real impact on the world of exhibit design. If you're interested in joining our team, please apply today!
+
+- ExhibitHQ is a community of developers and designers who are passionate about creating beautiful and engaging exhibits. We're always looking for new members to join our team, and we'd love to have you! As a member of our organization, you'll have access to our private repositories, collaborate with other members on projects, and receive early access to new features. We hope you'll join us in building the future of exhibit design!
