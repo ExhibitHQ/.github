@@ -6,4 +6,4 @@ ExhibitHQ is a community of developers and designers who are passionate about cr
 
 Become a [member](https://github.com/ExhibitHQ/join-the-community/issues/new?assignees=Arindam200%2CSwpn0neel%2Csamyabrata-maji%2Cpriyankarpal&labels=Waiting+Approval&projects=&template=invitation.yml&title=Invite+me+to+the+GitHub+Community+Organization)
 
-Join our [discord](https://discord.gg/xEmrjeeS)
+Join our [discord](https://discord.com/invite/hKEjEZdpbV)
